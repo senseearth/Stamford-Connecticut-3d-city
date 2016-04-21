@@ -1,0 +1,39 @@
+newmtl sheet_building
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   Ks 0.000 0.000 0.000
+   d 1.0
+   illum 2
+   map_Kd sheet_building.png
+
+newmtl sheet_poi
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   Ks 0.000 0.000 0.000
+   d 1.0
+   illum 2
+   map_Kd sheet_poi.png
+
+newmtl sheet_font
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   Ks 0.000 0.000 0.000
+   d 1.0
+   illum 2
+   map_Kd sheet_font.png
+
+newmtl sheet_ground
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   Ks 0.000 0.000 0.000
+   d 1.0
+   illum 2
+   map_Kd sheet_ground.png
+
+newmtl sheet_polyline
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   Ks 0.000 0.000 0.000
+   d 1.0
+   illum 2
+   map_Kd sheet_polyline.png
