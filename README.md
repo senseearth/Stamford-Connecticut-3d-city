@@ -1,9 +1,5 @@
 # Stamford-Connecticut-3d-city
-Digital city models of Stamford, Connecticut, in Wavefront .obj format
-
-Split up by grids of sectors into .obj files easily imported into Unity3D, Unreal Engine, or other tools
-
-Download them all with the 'Download ZIP' button on the right
+Digital city models of Stamford, Connecticut, in Wavefront .obj format. plit up by grids of sectors. Can import into Unity3D, Unreal Engine, or other tools. Download all with the 'Download ZIP' button on the right
 
 Elm Court + Cherry St
 ![alt tag](https://github.com/senseearth/Stamford-Connecticut-3d-city/blob/master/screenshot1.PNG)
